@@ -1,0 +1,15 @@
+{
+  "name": "babylonjs-gamepad",
+  "version": "0.1.0",
+  "description": "Testing out gamepad support in browsers with babylon.js for some reason.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "index.html",
+    "build": "",
+    "start": "",
+    "lint": ""
+  },
+  "keywords": [],
+  "author": "Max Nilsson",
+  "license": "ISC"
+}
